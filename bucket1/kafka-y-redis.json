@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1742416540858,
+    "description" : "",
+    "identifier" : "kafka-y-redis",
+    "lastModifiedTimestamp" : 1742416540858,
+    "name" : "kafka y redis",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
